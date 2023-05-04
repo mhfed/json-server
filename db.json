@@ -1,34 +1,36 @@
 {
-  "symbol": [
-    {
-      "symbol": "AA.XNYS",
-      "display_name": "AA.SGX",
-      "country": "SG",
-      "company_name": "Alcoa Corp",
-      "currency": "SGD",
-      "display_exchange": "SGX",
-      "exchange": "XNYS",
-      "tick_size": 0,
-      "lot_size": 0
-    },
-    {
-      "symbol": "AB.XNYS",
-      "display_name": "AA.SGX",
-      "country": "SG",
-      "company_name": "Alcoa Corp",
-      "currency": "SGD",
-      "display_exchange": "SGX",
-      "exchange": "XNYS",
-      "tick_size": 0,
-      "lot_size": 0
-    }
-  ],
-  "order": [
-    {
-      "order_id": "1"
-    },
-    {
-      "order_id": "2"
-    }
-  ]
+  "data": {
+    "symbol": [
+      {
+        "symbol": "AA.XNYS",
+        "display_name": "AA.SGX",
+        "country": "SG",
+        "company_name": "Alcoa Corp",
+        "currency": "SGD",
+        "display_exchange": "SGX",
+        "exchange": "XNYS",
+        "tick_size": 0,
+        "lot_size": 0
+      },
+      {
+        "symbol": "AB.XNYS",
+        "display_name": "AA.SGX",
+        "country": "SG",
+        "company_name": "Alcoa Corp",
+        "currency": "SGD",
+        "display_exchange": "SGX",
+        "exchange": "XNYS",
+        "tick_size": 0,
+        "lot_size": 0
+      }
+    ],
+    "order": [
+      {
+        "order_id": "1"
+      },
+      {
+        "order_id": "2"
+      }
+    ]
+  } 
 }
