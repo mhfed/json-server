@@ -2,6 +2,7 @@
   "symbol": {
     "data": [
       {
+        "id": "AA.XNYS",
         "symbol": "AA.XNYS",
         "display_name": "AA.SGX",
         "country": "SG",
@@ -13,6 +14,7 @@
         "lot_size": 0
       },
       {
+        "id": "AB.XNYS",
         "symbol": "AB.XNYS",
         "display_name": "AA.SGX",
         "country": "SG",
