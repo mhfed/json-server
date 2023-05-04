@@ -1,4 +1,18 @@
 {
+  "userdetail": {
+    "data": {
+      "user_id": "Abc123",
+      "username": "abc123",
+      "phone": "812345678",
+      "country_code": "84",
+      "status": "ACTIVE",
+      "updated": 0,
+      "last_time": 0,
+      "create_time": 0,
+      "account_id": "CGSI_000001",
+      "user_type": "TRADER"
+    }
+  },
   "symbol": {
     "data": [
       {
