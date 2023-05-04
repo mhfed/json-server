@@ -27,6 +27,19 @@
       }
     ]
   },
+  "symbol-detail": {
+    "data": {
+      "symbol": "AA.XNYS",
+      "display_name": "AA.SGX",
+      "country": "SG",
+      "company_name": "Alcoa Corp",
+      "currency": "SGD",
+      "display_exchange": "SGX",
+      "exchange": "string",
+      "tick_size": 0,
+      "lot_size": 0
+    }
+  },
   "order": {
     "data": {
       "order_id": "string"
