@@ -28,13 +28,20 @@
     ]
   },
   "order": {
-    "data": [
-      {
-        "order_id": "1"
-      },
-      {
-        "order_id": "2"
-      }
-    ]
+    "data": {
+      "order_id": "string"
+    }
+  },
+  "fee": {
+    "data": {
+      "order_amount": 1300.13,
+      "order_amount_convert": 1300.13,
+      "price": 13.13,
+      "fx_rate": 7.45,
+      "currency_pair": "USDHKD",
+      "estimated_fees": 12.15,
+      "estimated_total": 1305.13,
+      "estimated_total_convert": 1305.13
+    }
   }
 }
