@@ -70,5 +70,31 @@
       "estimated_total": 1305.13,
       "estimated_total_convert": 1305.13
     }
-  }
+  },
+  "order-detail": {
+    "data": [
+      {
+        "account_id": "string",
+        "account_name": "string",
+        "order_id": 123,
+        "symbol": "AAPL",
+        "side": "BUY",
+        "status": "NEW",
+        "filled": 0,
+        "quantity": 100,
+        "limit_price": "123.4567",
+        "filled_price": "123.4567",
+        "order_type": "LIMIT",
+        "duration": "DAY",
+        "company_name": "Ellington Financial Inc",
+        "exchange": "SGX",
+        "created_time": 1683600182442,
+        "transaction_time": 1683600182679,
+        "estimated_fees": "string",
+        "estimated_total": "125.78"
+      }
+    ]
+  },
+  "cancel-order": {},
+  "modify-order": {}
 }
