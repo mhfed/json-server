@@ -1,74 +1,31 @@
 {
-  "userdetail": {
+  "order-list": {
     "data": {
-      "user_id": "Abc123",
-      "username": "abc123",
-      "phone": "812345678",
-      "country_code": "84",
-      "status": "ACTIVE",
-      "updated": 0,
-      "last_time": 0,
-      "create_time": 0,
-      "account_id": "CGSI_000001",
-      "user_type": "TRADER"
-    }
-  },
-  "symbol": {
-    "data": [
-      {
-        "id": "AA.XNYS",
-        "symbol": "AA.XNYS",
-        "display_name": "AA.SGX",
-        "country": "SG",
-        "company_name": "Alcoa Corp",
-        "currency": "SGD",
-        "display_exchange": "SGX",
-        "exchange": "XNYS",
-        "tick_size": 0,
-        "lot_size": 0
-      },
-      {
-        "id": "AB.XNYS",
-        "symbol": "AB.XNYS",
-        "display_name": "AA.SGX",
-        "country": "SG",
-        "company_name": "Alcoa Corp",
-        "currency": "SGD",
-        "display_exchange": "SGX",
-        "exchange": "XNYS",
-        "tick_size": 0,
-        "lot_size": 0
-      }
-    ]
-  },
-  "symbol-detail": {
-    "data": {
-      "symbol": "AA.XNYS",
-      "display_name": "AA.SGX",
-      "country": "SG",
-      "company_name": "Alcoa Corp",
-      "currency": "SGD",
-      "display_exchange": "SGX",
-      "exchange": "string",
-      "tick_size": 0,
-      "lot_size": 0
-    }
-  },
-  "order": {
-    "data": {
-      "order_id": "string"
-    }
-  },
-  "fee": {
-    "data": {
-      "order_amount": 1300.13,
-      "order_amount_convert": 1300.13,
-      "price": 13.13,
-      "fx_rate": 7.45,
-      "currency_pair": "USDHKD",
-      "estimated_fees": 12.15,
-      "estimated_total": 1305.13,
-      "estimated_total_convert": 1305.13
+      "current_page": 1,
+      "total_count": 126,
+      "total_page": 3,
+      "data": [
+        {
+          "account_id": "string",
+          "account_name": "string",
+          "order_id": 123,
+          "symbol": "AAPL",
+          "side": "BUY",
+          "status": "NEW",
+          "filled": 0,
+          "quantity": 100,
+          "limit_price": "123.4567",
+          "filled_price": "123.4567",
+          "order_type": "LIMIT",
+          "duration": "DAY",
+          "company_name": "Ellington Financial Inc",
+          "exchange": "SGX",
+          "created_time": 1683600182442,
+          "transaction_time": 1683600182679,
+          "estimated_fees": "string",
+          "estimated_total": "125.78"
+        }
+      ]
     }
   },
   "order-detail": {
